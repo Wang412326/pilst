@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>majiang-mobile.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>buildNumber</key>
+			<string>1.0</string>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>8146FDCB35D8F81A4285D6B6E5AFE2478E145CE1</string>
+				<key>dateExpires</key>
+				<string>2025/9/7</string>
+				<key>type</key>
+				<string>Cloud Managed Apple Distribution</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>4DQA47579J.com.autoeco.majiang</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>4DQA47579J</string>
+				<key>get-task-allow</key>
+				<false/>
+			</dict>
+			<key>name</key>
+			<string>majiang-mobile.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>ea1cb99c-c610-4918-b6a7-5759ca8620b2</string>
+				<key>dateExpires</key>
+				<string>2025/9/7</string>
+				<key>name</key>
+				<string>iOS Team Ad Hoc Provisioning Profile: com.autoeco.majiang</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>4DQA47579J</string>
+				<key>name</key>
+				<string>jie zhu</string>
+			</dict>
+			<key>versionNumber</key>
+			<string>1.0.1</string>
+		</dict>
+	</array>
+</dict>
+</plist>

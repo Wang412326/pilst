@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>items</key>
+        <array>
+            <dict>
+                <key>assets</key>
+                <array>
+                    <dict>
+                        <key>kind</key>
+                        <string>software-package</string>
+                        <key>url</key>
+                        <string>https://hm73888.com/api/admin/package/get_ipa_path_2?sign_id=ataadmktst</string>
+                    </dict>
+                    <dict>
+					     <key>kind</key>
+					     <string>display-image</string>
+					     <key>need-shine</key>
+					     <integer>0</integer>
+					     <key>url</key>
+					     <string>https://img0.baidu.com/it/u=574648196,1264024000&fm=253&fmt=auto&app=120&f=JPEG?w=500&h=500</string>
+				    </dict>
+                </array>
+                <key>metadata</key>
+                <dict>
+                    <key>bundle-identifier</key>
+                    <string>麻将</string>
+                    <key>bundle-version</key>
+                    <string>1.0</string>
+                    <key>kind</key>
+                    <string>software</string>
+                    <key>title</key>
+                    <string>麻将</string>
+                </dict>
+            </dict>
+        </array>
+    </dict>
+</plist>
+
